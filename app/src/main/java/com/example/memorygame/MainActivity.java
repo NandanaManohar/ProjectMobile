@@ -19,7 +19,9 @@ import androidx.gridlayout.widget.GridLayout;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class
+
+MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
     private final int[] drawables = {
